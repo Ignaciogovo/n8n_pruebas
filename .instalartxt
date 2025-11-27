@@ -1,0 +1,23 @@
+N8N_EDITOR_BASE_URL = (url de render)
+N8N_HOST = (url de render sin https:// y sin barras)
+N8N_PORT = 5678
+N8N_PROTOCOL = https
+VUE_APP_URL_BASE_API = (url de render con /)
+WEBHOOK_TUNNEL_URL = (url de render con /)
+
+
+
+
+
+
+
+
+pasos: 
+Comprobar datos de docker-compose
+
+
+
+---
+docker-compose up -d
+
+
